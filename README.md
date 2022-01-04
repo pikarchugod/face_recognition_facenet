@@ -6,6 +6,7 @@ Just for homework
 實作步驟: 
 
 一. 在D槽開一個資料夾，叫facenet
+
 二. 我們分別有以下資料夾與內容
 
 1. aligned_img
