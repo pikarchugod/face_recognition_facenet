@@ -55,7 +55,7 @@ https://www.mediafire.com/file/j1m8sz2uqaokgk3/20180402-114759.zip/file
    3.5 scikit-learn
 注意:如果缺少套件報錯，請自行pip install相關模組。
 
-使用方式:
+使用方式 :
 
 一. 人臉辨識
 1. 運行 Data_process.py
