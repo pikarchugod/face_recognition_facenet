@@ -10,24 +10,35 @@ Just for homework
 二. 我們分別有以下資料夾與內容
 
 1. aligned_img
+
    1.1 你的資料夾名稱(可以多個)
+   
       1.1.1 你的照片(可以多張)
 
 2. train_img
+
    2.1 你的資料夾名稱(可以多個)
+   
       2.1.1 你的照片(可以多張)
 
 3. class 
+
    3.1 classifier.pkl
 
 4. npy
+
    4.1 det1.npy
+   
    4.2 det2.npy
+   
    4.3 det3.npy
 
 5. model 
+
    5.1 120180402-114759.qb
+   
    P.S 因為檔案過大，無法放上github，連結如下
+   
 https://www.mediafire.com/file/j1m8sz2uqaokgk3/20180402-114759.zip/file
 
 6. Facenet_Tensorflow-main (主要程式都在裡面)
