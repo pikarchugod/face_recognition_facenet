@@ -42,14 +42,23 @@ Just for homework
 https://www.mediafire.com/file/j1m8sz2uqaokgk3/20180402-114759.zip/file
 
 6. Facenet_Tensorflow-main (主要程式都在裡面)
+
    6.1 preprocess.py
+   
    6.2 data_preprocess.py
+   
    6.3 detect_face.py
+   
    6.4 Facenet.py
+   
    6.5 Train_main.py
+
    6.6 Recognition.py
+   
    6.7 Autocontrol.py
+   
    6.8 Savefiles.py
+   
    6.9 LineMessage.py
 
 注意檔案放置的位置，放錯就會出錯。
