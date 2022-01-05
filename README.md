@@ -9,13 +9,13 @@ Just for homework
 
 二. 我們分別有以下資料夾與內容
 
-1. aligned_img
+1. aligned_img(一開始只要建立空白資料夾，train_img 裡面的照片經過處理會儲存到這個資料夾)
 
    1.1 你的資料夾名稱(可以多個)
    
       1.1.1 你的照片(可以多張)
 
-2. train_img
+2. train_img(放你要訓練的照片名稱，和相對應的多張照片，EX : pikarchu // pikarchu1 ...) 
 
    2.1 你的資料夾名稱(可以多個)
    
@@ -68,11 +68,17 @@ https://www.mediafire.com/file/j1m8sz2uqaokgk3/20180402-114759.zip/file
 2. tensorflow = 2.6.2 (最新版本)
 注意:如果裝有Keras會造成與tensorflow版本衝突。
 3. 安裝相關套件 如下
+
    3.1 opencv-contrib-python
+   
    3.2 imageio
+   
    3.3 tensorflow
+   
    3.4 scipy
+
    3.5 scikit-learn
+   
 注意:如果缺少套件報錯，請自行pip install相關模組。
 
 使用方式 :
